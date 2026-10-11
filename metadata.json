@@ -1,0 +1,6 @@
+{
+  "name": "SiteStock - Gestão de Pátio e Montagem Industrial",
+  "description": "Controle de pátio, almoxarifado técnico e avanço de montagem industrial com rastreabilidade por TAG ISA, guarda fiscal de NF, cautela de ferramentas e operação offline.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
